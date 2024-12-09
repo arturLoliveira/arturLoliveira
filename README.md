@@ -13,8 +13,8 @@
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/matheusfc.dev" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/matheusfc.dev/"/></a>
+  <a href="https://instagram.com/artur.linhares" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/artur.linhares/"/></a>
 
   <a href="https://www.linkedin.com/in/artur-linhares-2200311ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-linhares-2200311ab/" /></a>
