@@ -1,7 +1,7 @@
 <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem fundo">
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, Bootstrap, Styled-Components, Tailwindcss, JS, ReactJS, React Native, Typescript, NodeJs, Sqlite, Firebase.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, Bootstrap, ChakraCSS, Tailwindcss, Styled-Components, Java, JS, ReactJS, React Native, Typescript, NodeJs, Sqlite, Firebase, PostgreSQL.</strong>
 </p>
 
 <p align="left">
